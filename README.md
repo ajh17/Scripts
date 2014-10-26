@@ -8,7 +8,7 @@ The scripts use Yosemite's new JavaScript for Automation.
 
 ## Installation
 
-    git clone https://github.com/ajh17/Scripts.git /Applications/Scripts
+    git clone https://github.com/ajh17/Scripts.git /Applications/
 
 ### Descriptions
 
