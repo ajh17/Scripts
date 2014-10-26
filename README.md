@@ -12,5 +12,5 @@ The scripts use Yosemite's new JavaScript for Automation.
 
 ### Descriptions
 
-1. LockScreen.app: Locks the screen and shows the user account switcher.
+1. LockScreen.app: Switches to the user account switcher and password locks the account.
 2. OpenApps.app: Opens most used apps. Customizable by editing the main.scpt.
