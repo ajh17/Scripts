@@ -31,7 +31,9 @@ The scripts use Yosemite's new JavaScript for Automation.
 7. Incognito.app: Open Chrome in birthday shopping mode. If it's already open,
    switches to it.
 8. SwitchGraphics.app: Toggle between "Automatic graphics switching" setting in
-   System Preferences.
+   System Preferences. Gives you a notification when switched.
+8. ToggleFunctionKeys.app: Toggles between standard function keys and Apple
+   function key modes. Gives you a notification when switched.
 
 ## FAQ
 
