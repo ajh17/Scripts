@@ -25,8 +25,7 @@ The scripts use Yosemite's new JavaScript for Automation.
 3. QuitAllApps.app: Quits all of the above apps opened by OpenApps.app.
 4. MacVim.app: Opens MacVim. No need to symlink MacVim to the /Applications
    directory.
-5. Playground.app: Opens a Swift Playground file. Set the path to the playground
-   file in main.scpt
+5. Playground.app: Quickly create and open a new Swift Playground file.
 6. EmptyTrash.app: Empty the trash. Caution: Currently shows no alert dialog.
 7. Incognito.app: Open Chrome in birthday shopping mode. If it's already open,
    switches to it.
