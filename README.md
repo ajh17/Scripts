@@ -1,6 +1,6 @@
 # Scripts
 
-Various automation scripts for use with OS X's Spotlight.
+Various automation scripts for use with macOS' Spotlight.
 
 ## Installation
 
@@ -12,10 +12,10 @@ you haven't told Spotlight not to index that path.
 ## Usage
 
 You can place them in any directory that Spotlight indexes for easy execution
-with Yosemite's Spotlight.
+with Spotlight in macOS.
 
 This was created in order to make Spotlight behave slightly more like Alfred.
-The scripts use Yosemite's new JavaScript for Automation.
+The scripts use the new JavaScript for Automation in macOS.
 
 ### Descriptions
 
@@ -42,9 +42,9 @@ The scripts use Yosemite's new JavaScript for Automation.
 Spotlight comes built in, is free, and can do most of what Alfred or Quicksilver
 can do. Alfred charges for extra workflow features and it actually relies on
 Spotlight's engine and metadata it creates for most of the heavy lifting. Most
-people just want a app launcher with some workflow features. OS X Yosemite's
-Spotlight is more accurate in opening apps, and can even do conversions. So why
-not write automation scripts for it to execute?
+people just want a app launcher with some workflow features. The Spotlight in
+macOS is more accurate in opening apps, and can even do conversions. So why not
+write automation scripts for it to execute?
 
 ## LICENSE
 
