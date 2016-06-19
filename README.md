@@ -33,6 +33,7 @@ The scripts use Yosemite's new JavaScript for Automation.
    System Preferences. Gives you a notification when switched.
 8. ToggleFunctionKeys.app: Toggles between standard function keys and Apple
    function key modes. Gives you a notification when switched.
+9. CopyBuildNumber.app: Copies the system build number
 
 ## FAQ
 
