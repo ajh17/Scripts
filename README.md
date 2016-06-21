@@ -51,7 +51,7 @@ write automation scripts for it to execute?
 
 ## LICENSE
 
-Copyright © 2015 Akshay Hegde
+Copyright © 2015-2016 Akshay Hegde
 
 This work is free. You can redistribute it and/or modify it under the
 terms of the Do What The Fuck You Want To Public License, Version 2,
