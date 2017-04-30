@@ -33,7 +33,8 @@ The scripts use the new JavaScript for Automation in macOS.
    System Preferences. Gives you a notification when switched.
 8. ToggleFunctionKeys.app: Toggles between standard function keys and Apple
    function key modes. Gives you a notification when switched.
-9. CopyBuildNumber.app: Copies the system build number
+9. CopyVersionInfo.app: Copies the macOS version information which includes the
+   build number.
 10. OpenTerminalHere.app: Opens iTerm.app pointed at the current Finder window's
     path. Can also be used on the Desktop itself! Note: If you want to open
     Terminal.app instead, edit the main.scpt file for this application.
