@@ -38,6 +38,8 @@ The scripts use the new JavaScript for Automation in macOS.
 10. OpenTerminalHere.app: Opens iTerm.app pointed at the current Finder window's
     path. Can also be used on the Desktop itself! Note: If you want to open
     Terminal.app instead, edit the main.scpt file for this application.
+11. Cleanupesktop.app: Messy Desktop? Move all the folders and files (excluding
+    the hidden ones) from ~/Desktop to ~/Downloads instead
 
 ## FAQ
 
